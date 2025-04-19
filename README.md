@@ -8,6 +8,6 @@
  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
- ##
-  ![Guita](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTM2OWF6YW5lYmYxenI3eHNkYm4yZTRkN3k4eXR5YzE0ZHcyOWluMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E8eH9Gxd4DAOqdufXD/giphy.gif)
+
+ ![Guita](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTM2OWF6YW5lYmYxenI3eHNkYm4yZTRkN3k4eXR5YzE0ZHcyOWluMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E8eH9Gxd4DAOqdufXD/giphy.gif)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
