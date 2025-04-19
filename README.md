@@ -1,5 +1,5 @@
 # 💀 About Me:
- ![Guts](https://i.pinimg.com/originals/4c/3e/42/4c3e4262fffe97f8fecdfbcdf2407945.gif)
+ ![Guts](https://i.pinimg.com/originals/4c/3e/42/4c3e4262fffe97f8fecdfbcdf2407945.gif)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=duarteHiago&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=duarteHiago&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 <br/>
