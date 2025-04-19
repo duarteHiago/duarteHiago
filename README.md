@@ -18,13 +18,13 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 </p>
+
+# 💬 Social:
 <p align="left">
   <a href="https://www.linkedin.com/in/hiago-duarte-8bb1ab1b0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
-
 
  ![Guita](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTM2OWF6YW5lYmYxenI3eHNkYm4yZTRkN3k4eXR5YzE0ZHcyOWluMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E8eH9Gxd4DAOqdufXD/giphy.gif)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
