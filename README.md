@@ -1,6 +1,7 @@
 # 💀 About Me:
-![](https://github-readme-stats.vercel.app/api?username=duarteHiago&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
+<!--![](https://github-readme-stats.vercel.app/api?username=duarteHiago&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=duarteHiago&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+-->
 <br/>
 
 # 💻 Tech Stack:
@@ -25,7 +26,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/n.society_/?next=%2F" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src
+="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
