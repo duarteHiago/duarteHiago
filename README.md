@@ -1,7 +1,9 @@
 # 💀 About Me:
 <!--![](https://github-readme-stats.vercel.app/api?username=duarteHiago&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
 -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=duarteHiago&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+🎓 Estudante de Ciência da Computação na Universidade de Cuiabá (UNIC), com foco em desenvolvimento web, infraestrutura e computação em nuvem.
+💻 Possuo conhecimentos intermediários a avançados em linguagens como C#, JavaScript, C e PHP, além de experiência em desenvolvimento web com HTML e CSS. Tenho sólida prática com Banco de Dados MySQL e utilizo ferramentas como Node.js, Git e GitHub para versionamento e desenvolvimento colaborativo.
+   Minha formação também envolve arquitetura e redes de computadores, administração de servidores Apache, experiência em computação em nuvem com AWS (EC2 e Lightsail) e boa familiaridade com sistemas Linux. Além disso, possuo conhecimentos básicos em Docker e estou iniciando minha trajetória na área de cybersecurity, com foco em firewalls CheckPoint.
 
 <br/>
 
