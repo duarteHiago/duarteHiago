@@ -39,8 +39,8 @@
   </a>
 </p>
 
-#📖 Course:
-<div align="center">
+# 📖 Course:
+<div align="left">
 
 [![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=UNIC%20-%20Universidade%20de%20Cuiab%C3%A1&course=Computer%20Science&degree=Bachelor&progress=50%25&img=https://upload.wikimedia.org/wikipedia/pt/thumb/5/5b/UNIC_logo.png/800px-UNIC_logo.png)](https://github.com/Glauedson/github-readme-educational-badge)
 
