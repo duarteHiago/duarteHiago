@@ -8,21 +8,19 @@
 # 💻 Tech Stack:
 <br/>
 <div align="center">
-  <!-- Linguagens e principais tecnologias -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,csharp,dotnet,php,kotlin,cpp" />
-  <br>
-  <!-- Frameworks e bibliotecas -->
-  <img src="https://skillicons.dev/icons?i=react,electron,nodejs,express,tailwind,bootstrap,spring" />
-  <br>
-  <!-- Bancos de dados, ferramentas e versionamento -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,postman,git,github,supabase" />
-  <br>
-  <!-- Design, deploy e produtividade -->
-  <img src="https://skillicons.dev/icons?i=figma,vercel,notion,md,androidstudio,arduino" />
-  <br>
-  <!-- Infraestrutura, sistemas operacionais e cloud -->
-  <img src="https://skillicons.dev/icons?i=docker,linux,arch,aws,checkpoint" />
+  <!-- Linguagens -->
+  <img src="https://skillicons.dev/icons?i=html,js,csharp,dotnet,php" />
+  <br/>
+  <!-- Frontend e frameworks -->
+  <img src="https://skillicons.dev/icons?i=react,nodejs" />
+  <br/>
+  <!-- Bancos de dados e versionamento -->
+  <img src="https://skillicons.dev/icons?i=mysql,git,github" />
+  <br/>
+  <!-- Infraestrutura, cloud e OS -->
+  <img src="https://skillicons.dev/icons?i=linux,arch,aws,docker,checkpoint,apache" />
 </div>
+
 
 
 <br/>
