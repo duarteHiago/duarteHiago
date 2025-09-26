@@ -7,27 +7,23 @@
 
 # 💻 Tech Stack:
 <br/>
-<div align="left">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-  <br/>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <br/>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/apache-CA1F14?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Check%20Point-FF0000?style=for-the-badge&logoColor=white" alt="FW Check Point"/>
+<div align="center">
+  <!-- Linguagens e principais tecnologias -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,csharp,dotnet,php,kotlin,cpp" />
+  <br>
+  <!-- Frameworks e bibliotecas -->
+  <img src="https://skillicons.dev/icons?i=react,electron,nodejs,express,tailwind,bootstrap,spring" />
+  <br>
+  <!-- Bancos de dados, ferramentas e versionamento -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,postman,git,github,supabase" />
+  <br>
+  <!-- Design, deploy e produtividade -->
+  <img src="https://skillicons.dev/icons?i=figma,vercel,notion,md,androidstudio,arduino" />
+  <br>
+  <!-- Infraestrutura, sistemas operacionais e cloud -->
+  <img src="https://skillicons.dev/icons?i=docker,linux,arch,aws,checkpoint" />
 </div>
+
 
 <br/>
 
