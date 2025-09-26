@@ -6,15 +6,8 @@
 <br/>
 
 # 💻 Tech Stack:
-<h3 align="left">
-  <img src="./assets/icons/stack-white.svg" width=17>
-  My Tech Stack
-  <img src="./assets/icons/stack-black.svg" width=20>
-</h3>
-
 <br/>
-
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
