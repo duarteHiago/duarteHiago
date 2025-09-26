@@ -40,8 +40,3 @@
 ="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
-
-***
- 
-![Guita](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTM2OWF6YW5lYmYxenI3eHNkYm4yZTRkN3k4eXR5YzE0ZHcyOWluMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E8eH9Gxd4DAOqdufXD/giphy.gif)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
