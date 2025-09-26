@@ -39,6 +39,14 @@
   </a>
 </p>
 
+#📖 Course:
+<div align="center">
+
+[![badge](https://github-readme-educational-badge.vercel.app/en/badge?name=UNIC%20-%20Universidade%20de%20Cuiab%C3%A1&course=Computer%20Science&degree=Bachelor&progress=50%25&img=https://upload.wikimedia.org/wikipedia/pt/thumb/5/5b/UNIC_logo.png/800px-UNIC_logo.png)](https://github.com/Glauedson/github-readme-educational-badge)
+
+</div>
+
+
  
 ![Guita](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTM2OWF6YW5lYmYxenI3eHNkYm4yZTRkN3k4eXR5YzE0ZHcyOWluMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E8eH9Gxd4DAOqdufXD/giphy.gif)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
